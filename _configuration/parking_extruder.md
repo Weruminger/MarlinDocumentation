@@ -5,7 +5,7 @@
 </table>
 
  In this context the dual parking extruder configuration for 
- [Mendel or I3 Prusa]: https://reprap.org/wiki/Prusa_Mendel
+ <a href="https://reprap.org/wiki/Prusa_Mendel" title="Mendel or I3 Prusa]">
   systems is described. These systems moves the printing hotend on X axis and Z axis. The print bed moves on the Y axis. Therefor it is possible to install two printing hotends. One at the left and the second at the right side of the X axis.  
 ***
 
