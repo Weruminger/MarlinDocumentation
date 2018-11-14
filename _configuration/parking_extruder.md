@@ -25,4 +25,4 @@ This text describes the dual parking extruder configuration for <a href="https:/
   #endif
 #endif
 ```
-[![MPE Kinamatics](https://i9.ytimg.com/vi/0xCEiG9VS3k/mqdefault.jpg?sqp=CJjfrN8F&rs=AOn4CLDs7Ly5BDO7zWrmO2IE-VMWUomT6A&time=1542139823168)](https://youtu.be/0xCEiG9VS3k)
+[MPE Kinamatics](https://youtu.be/0xCEiG9VS3k)
